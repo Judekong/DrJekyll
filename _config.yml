@@ -7,9 +7,8 @@ permalink: pretty
 
 favicon: "/assets/img/tem_chem.jpg"
 
-port: 3000
-url: http://localhost:3000
-
+url: http://www.judekong.ca
+#url: /home/judekong/sources/websites/persona_test
 sass:
   sass_dir: assets/css
   style: :nested
